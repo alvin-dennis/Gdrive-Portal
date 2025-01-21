@@ -1,6 +1,6 @@
 # Gdrive - Portal
 
-This project is a modern web application built with Next.js, featuring a sleek UI powered by Tailwind CSS and shadcn/ui components, with secure authentication provided by NextAuth.
+This project is a modern web application built with Next.js, featuring a sleek UI powered by Tailwind CSS and shadcn/ui components, with secure authentication provided by NextAuth. This is used to create a structured organizational web portal to edit/write/access Google Drive files
 
 ## Features
 
